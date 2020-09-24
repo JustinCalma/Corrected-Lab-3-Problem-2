@@ -1,0 +1,7 @@
+﻿  BubbleSort.cpp
+C:\Users\sonic\OneDrive\Documents\C++_Workspace\Corrected Lab 3 Problem 2\CECS 282 Lab 3 Problem 2\BubbleSort.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+C:\Users\sonic\OneDrive\Documents\C++_Workspace\Corrected Lab 3 Problem 2\CECS 282 Lab 3 Problem 2\Main.cpp(16,9): warning C4101: 'y': unreferenced local variable
+C:\Users\sonic\OneDrive\Documents\C++_Workspace\Corrected Lab 3 Problem 2\CECS 282 Lab 3 Problem 2\Main.cpp(16,6): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  CECS 282 Lab 3 Problem 2.vcxproj -> C:\Users\sonic\OneDrive\Documents\C++_Workspace\Corrected Lab 3 Problem 2\x64\Debug\CECS 282 Lab 3 Problem 2.exe
